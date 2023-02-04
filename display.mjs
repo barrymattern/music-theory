@@ -61,15 +61,13 @@ const displayKeyboard = () => {
   `);
 };
 
-/*----------------------------------------------------------------------------*/
 
-/** DISPLAY OPTIONS **********************\
+/** DISPLAY OPTIONS ***********************************************************\
  * 
+ * displayKeyboard()
  * displayScale(key)
  * displayChord(key, numOrNote)
  * displayProgression(key, ...numsOrNotes)
  * displayCircleOf(degree)
- * displayKeyboard()
- ****************************************/
-
-displayKeyboard();
+ * 
+ ******************************************************************************/
