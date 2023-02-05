@@ -1,6 +1,6 @@
 # Music Theory Helper
 
-This a simple MVP meant to be an aid in thinking through music theory in an key. The user has five different display options (described below under [Usage](#usage)) to choose from, and each will display the corresponding output in the terminal.
+This a simple MVP meant to be an aid in thinking through music theory in any key. The user has five different display options (described below under [Usage](#usage)) to choose from, and each will display the corresponding output in the terminal.
 
 The main idea is to choose a music key you'd like to study in, then select what you'd like to output:
 
