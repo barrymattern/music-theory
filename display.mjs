@@ -71,3 +71,18 @@ const displayKeyboard = () => {
  * displayCircleOf(degree)
  * 
  ******************************************************************************/
+
+displayKeyboard();
+displayCircleOf("Fourths");
+displayScale("C");
+displayScale("F");
+displayScale("Bb");
+displayScale("Eb");
+displayScale("Ab");
+displayScale("Db");
+displayScale("F#");
+displayScale("B");
+displayScale("E");
+displayScale("A");
+displayScale("D");
+displayScale("G");
