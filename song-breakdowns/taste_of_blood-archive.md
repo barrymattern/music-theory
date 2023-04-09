@@ -17,27 +17,27 @@
         * B major scale
         * B minor scale
         * B melodic minor scale
-* [Bmin 1st Inversion][5]
+* [Bm 1st Inversion][5]
 * [D6][6]
 * [A6add9][7]
-* [C#min11][8]
+* [C#m11b9][8]
 
 
 ## Breakdown
 * Key: `B minor`
 * Chords:
     Verse:
-    `Bmin`    `G`    `Emin`    `Bmin`    `F#`
+    `Bm`    `G`    `Em`    `Bm`    `F#`
 
     Chorus:
-    `Emin`    `Bmin/D (D6)`    `Bmin/C# (C#min11)`    `F#`
+    `Em`    `Bm/D (D6)`    `Bm/C# (C#m11b9)`    `F#`
     
     Bridge:
-    `B`    `B/A (A6add9)`    `Emin`    `Bmin/D (D6)`    `Bmin/C# (C#min11)`    `F#`
+    `B`    `B/A (A6add9)`    `Em`    `Bm/D (D6)`    `Bm/C# (C#m11b9)`    `F#`
 
 
 ## Chords
-  `Bmin`                 `G`                    `Emin`                `F#`
+  `Bm`                   `G`                    `Em`                  `F#`
 
    6 |  |  |  |  |  |     6 |  |  |  |  |  |     6 |  |  |  |  |  |    6 |  |  |  |  |  |
      |--|--|--|--|--|       |--|--|--|--|--|       |--|--|--|--|--|      |--|--|--|--|--|
@@ -51,7 +51,7 @@
      |--|--|--|--|--|       |--|--|--|--|--|       |--|--|--|--|--|      |--|--|--|--|--|
 
   
-  `Emin`                 `Bmin/D (D6)`          `Bmin/C# (C#min11)`    `F#`
+  `Em`                   `Bm/D (D6)`            `Bm/C# (C#m11b9)`      `F#`
                                                                           ________________
    6 |  |  |  |  |  |     6 |  |  |  |  |  |     6 |  |  |  |  |  |     1 |  |  |  |  |  |
      |--|--|--|--|--|       |--|--|--|--|--|       |--|--|--|--|--|       |--|--|--|--|--|
@@ -86,7 +86,7 @@
 [2]: <https://www.youtube.com/watch?v=llQjWZpfM80> (YouTube)
 [3]: <https://genius.com/Archive-taste-of-blood-lyrics> (Lyrics)
 [4]: <https://www.perplexity.ai/search/bd06bd3d-10cd-4e53-8232-5f172d8a1be8?s=c> (perplexity.ai search)
-[5]: <https://www.key-notes.com/blog/b-minor-chord#:~:text=Inversions%20of%20the%20B%20minor%20Chord&text=If%20the%20third%20of%20the,%2Dsharp%20is%20a%20fifth.)> (Bmin 1st Inversion)
+[5]: <https://www.key-notes.com/blog/b-minor-chord#:~:text=Inversions%20of%20the%20B%20minor%20Chord&text=If%20the%20third%20of%20the,%2Dsharp%20is%20a%20fifth.)> (Bm 1st Inversion)
 [6]: <https://www.fachords.com/guitar-chord/d/6/#:~:text=The%20notes%20in%20this%20chord,in%20easy%20and%20relaxed%20songs.> (D6)
 [7]: <https://www.guitar-chords.org.uk/a-major6-add9-chord.html#:~:text=A6%2F9%20chord%20attributes%3A&text=Notes%20in%20the%20chord%3A%20A,add%209)%20%2D%20A6%2F9> (A6add9)
-[8]: <https://www.scales-chords.com/chord/guitar/C%23minor11> (C#min11)
+[8]: <https://www.songtive.com/en/chords/piano/Cxm11b9> (C#m11b9)
