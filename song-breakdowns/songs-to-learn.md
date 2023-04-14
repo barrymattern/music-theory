@@ -14,7 +14,7 @@
 * [Easter Piano Song][8], Saddleback Kids
     * Song is in background
     * Harder to hear over narration
-    * Start at 10:21
+    * Start at 10:49
 
 
 
