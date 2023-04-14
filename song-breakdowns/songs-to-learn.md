@@ -32,5 +32,5 @@
 [5]: <https://open.spotify.com/track/4m8ttWM8IKXyhpv89E867J?si=7b1b4b85f1c34138> (Cherry Blossom Girl)
 [6]: <https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm?si=7c77f71f758849d1> (Alone in Kyoto)
 [7]: <https://www.instagram.com/huberjonathan/> (@huberjonathan)
-[8]: <https://youtu.be/4VtcF_fOoWY?t=621> (Easter Piano Song)
+[8]: <https://youtu.be/4VtcF_fOoWY?t=649> (Easter Piano Song)
 [9]: </song-breakdowns/taste_of_blood-archive.md> (Taste of Blood)
