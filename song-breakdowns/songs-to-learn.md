@@ -15,6 +15,7 @@
     * Song is in background
     * Harder to hear over narration
     * Start at 10:49
+* [Garland of Shame][10], Eterna
 
 
 
@@ -34,3 +35,4 @@
 [7]: <https://www.instagram.com/huberjonathan/> (@huberjonathan)
 [8]: <https://youtu.be/4VtcF_fOoWY?t=649> (Easter Piano Song)
 [9]: </song-breakdowns/taste_of_blood-archive.md> (Taste of Blood)
+[10]: <https://open.spotify.com/track/70USZOC1mQEjtNCNahraqJ?si=dd197b2290ea416f> (Garland of Shame)
